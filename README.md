@@ -1,28 +1,35 @@
-# Hi, I'm a Data Engineer 👋
+# Hi, I'm Rizwan Haidar 👋  
 
-Welcome to my GitHub! I’m passionate about building scalable data systems, processing large datasets, and using data to drive insights. As a **Data Engineer**, I focus on developing robust data pipelines, optimizing data workflows, and working with cloud technologies to solve real-world data problems.
+Welcome to my GitHub! I’m a seasoned **Data Engineer** with expertise in transforming raw data into actionable insights, building scalable data systems, and driving innovation in data integration and analytics. My passion lies in solving complex data challenges and fostering collaboration across cross-functional teams.  
 
-## 🚀 About Me
+## 🚀 About Me  
 
-- 🔭 I’m currently working on data pipeline automation, real-time data processing, and data integration projects.
-- 🌱 Continuously learning new tools and techniques in **Data Engineering**, **Big Data**, and **Cloud Computing**.
-- 💬 Ask me about **SQL**, **Data Warehousing**, **ETL**, **Data Lakes**, and **Cloud Platforms**.
+- 🔭 I’m currently working on data integration, ETL optimization, and automation tools to enhance team efficiency and performance.  
+- 🌱 Continuously expanding my expertise in **Data Engineering**, **Cloud Computing**, and **Big Data** technologies.  
+- 💬 Ask me about **ETL Processes**, **Data Migration**, **Teradata**, **Azure**, **AWS**, and **Python-based Automation**.  
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools  
 
-- **Programming Languages**: Python, SQL, Java
-- **Data Engineering**: Apache Spark, Kafka, Hadoop, Airflow, Apache Flink
-- **Databases**: PostgreSQL, MySQL, MongoDB, NoSQL
-- **Cloud**: AWS, Azure, Google Cloud Platform
-- **Big Data**: Hadoop, Apache Hive, Apache HBase
-- **DevOps**: Docker, Kubernetes, Terraform
+- **Programming Languages**: Python, SQL, Java, C/C++, Bash, Shell Scripting  
+- **Data Engineering**: Informatica, PySpark, Airflow, Kafka, Hadoop, Databricks  
+- **Databases**: Teradata, Oracle, Neo4j, PostgreSQL, MySQL  
+- **Cloud Platforms**: Azure, AWS, Data Factory  
+- **Big Data**: Hadoop, Apache Hive, Teradata Utilities (TPT & BTEQ)  
+- **DevOps**: Jenkins, Git, Control-M, CI/CD  
 
-## 📂 Key Projects
+## 📂 Key Projects  
 
-- **Data Pipeline Automation**: Building end-to-end data pipelines that automate data extraction, transformation, and loading.
-- **Real-Time Data Processing**: Developing real-time streaming systems using Apache Kafka and Apache Flink.
-- **Data Warehousing**: Designing and implementing efficient data storage solutions using cloud-based technologies.
+- **ETL Process Optimization**: Developed and optimized ETL processes for Federated Co-operatives Limited, managing complex data flows across multiple layers to support high-quality reporting.  
+- **Data Migration Automation**: Engineered tools that reduced manual effort by 45%, saving over 50 hours per week. Migrated 500GB of data to Teradata with 93% data integrity.  
+- **Python Automation**: Created scripts for analyzing over 1,000 SQL queries, reducing source code analysis time by 40% and enhancing accuracy in data migration.  
+- **Graph Database Development**: Designed and managed a Neo4j graph database to enhance data relationship insights for COVID-19 socio-economic analysis.  
+
+## 📚 Certifications  
+
+- Teradata Vantage Data Engineering (TDVAN4)  
+- Azure Data & Cloud Fundamentals (AZ-900 & DP-900)  
+- AWS Cloud Practitioner (CLF-C01)  
 
 ---
 
-Thanks for visiting my profile! Feel free to check out my projects and get in touch if you'd like to collaborate or discuss data engineering topics! 🚀
+Thanks for visiting my profile! Feel free to explore my projects and reach out if you’d like to collaborate or discuss data engineering and analytics. 🚀  
