@@ -1,4 +1,4 @@
-# Hi, I'm Rizwan Haidar 👋  
+# Hi, I'm Rizwan 👋  
 
 Welcome to my GitHub! I’m a seasoned **Data Engineer** with expertise in transforming raw data into actionable insights, building scalable data systems, and driving innovation in data integration and analytics. My passion lies in solving complex data challenges and fostering collaboration across cross-functional teams.  
 
